@@ -1,0 +1,43 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LLM + Embeddings
+langchain-google-genai
+langchain-groq
+google-generativeai
+groq
+
+# Vector Store
+faiss-cpu
+
+# Document Loaders
+pypdf
+pandas
+python-docx
+openpyxl
+unstructured
+
+# Tokenization / chunking
+tiktoken
+
+# Env handling
+python-dotenv
+
+# Web/App UI
+streamlit
+
+# API / backend (if needed later)
+fastapi
+uvicorn
+
+# Utilities
+numpy
+requests
+pydantic
+
+# Optional helpful parsing
+beautifulsoup4
+lxml
